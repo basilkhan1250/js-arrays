@@ -126,6 +126,13 @@
 // var values = ["Keyboard","Mouse","Printer","Monitor"]
 // document.write(`Devices <br/> ${values} <br/> <br/> Out <br/>${values[0]} <br/> Out <br/>${values[1]} <br/> Out <br/>${values[2]}<br/> Out <br/>${values[3]}`)
 
+
+// Question 19
+
+// let select = document.querySelector("select");
+// const array = [ "Apple " , "Samsung" , "Motorola" , "Nokia" , "Sony " , "Haier"]
+// select.innerHTML = (` <option>${array[0]}</option> <option>${array[1]}</option> <option>${array[2]}</option> <option>${array[3]}</option> <option>${array[4]}</option> <option>${array[5]}</option> `)
+
 // question 18
 
 
@@ -147,5 +154,7 @@
 
 
 // const deeplyNestedArray = [[[[1, 2],[3, 4]],[[5, 6],[7, 8]]],[[[9, 10],[11, 12]],[[13, 14],[15, 16]]],[[[17, 18],[19, 20]],[[21, 22],[23, 24]]]];
-// document.write(`This is nested array ${deeplyNestedArray} <br/> The lsat number of this nested array is ${deeplyNestedArray[2][1][1][1]}.`)
-  
+// document.write(`This is nested array ${deeplyNestedArray} <br/> and this is it's last value ${deeplyNestedArray[2][1][1][1]}`)
+
+
+ 
